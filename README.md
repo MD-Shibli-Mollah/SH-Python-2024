@@ -40,6 +40,7 @@ Step 3: run app.py
         Dibugger is enabled the server will be Running on http://127.0.0.1:5000
 
 Step 4: Testing APIs for the API Endpoints:
+
 | Method | Endpoint    | Description              |
 |--------|-------------|--------------------------|
 | POST   | /banks      | Create a new bank record |
