@@ -31,7 +31,7 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
 ```bash
 git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
 cd SH-Python-2024
-
+```
 run app.py
 Dibugger is enabled & the server will be Running on http://127.0.0.1:5000
 
