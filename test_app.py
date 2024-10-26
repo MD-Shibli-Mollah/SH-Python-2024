@@ -36,10 +36,10 @@ def test_update_bank(client: FlaskClient):
     })
     assert response.status_code == 200  # Assert successful update (200)
     data = json.loads(response.data)
-    assert data.get('message') == "Bank updated successfully"  # Assert success message
+    assert data.get('message') == "Bank updated successfully"  # Assert success message update
 
 def test_delete_bank(client: FlaskClient):
-    response = client.delete('/banks/21')
+    response = client.delete('/banks/26')
     assert response.status_code == 200  # Assert successful Deletion (200)
     data = json.loads(response.data)
-    assert data.get('message') == "Bank deleted successfully"  # Assert success message
+    assert data.get('message') == "Bank deleted successfully"  # Assert success message delete
