@@ -35,8 +35,6 @@ cd SH-Python-2024
 run app.py
 Dibugger is enabled & the server will be Running on http://127.0.0.1:5000
 
-## Testing APIs for the API Endpoints:
-```markdown
 | Method | Endpoint       | Description               |
 |--------|----------------|---------------------------|
 | POST   | /banks         | Create a new bank record  |
@@ -44,4 +42,3 @@ Dibugger is enabled & the server will be Running on http://127.0.0.1:5000
 | GET    | /banks/<id>    | Get a specific bank by ID |
 | PUT    | /banks/<id>    | Update a specific bank    |
 | DELETE | /banks/<id>    | Delete a specific bank    |
-```
