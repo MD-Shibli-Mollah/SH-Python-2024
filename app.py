@@ -74,6 +74,7 @@ if __name__ == '__main__':
             db.create_all()  # This creates tables if they don't exist
         except Exception as e:
             print(f"Error initializing database: {e}")
+    # app.run(debug=True)
     app.run(debug=True)
 
 
