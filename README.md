@@ -54,3 +54,11 @@ Step 4: Testing APIs for the API Endpoints:
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+| Method | Endpoint       | Description               |
+|--------|----------------|---------------------------|
+| POST   | /banks         | Create a new bank record  |
+| GET    | /banks         | Get a list of all banks   |
+| GET    | /banks/<id>    | Get a specific bank by ID |
+| PUT    | /banks/<id>    | Update a specific bank    |
+| DELETE | /banks/<id>    | Delete a specific bank    |
