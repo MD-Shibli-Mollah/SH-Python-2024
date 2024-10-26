@@ -33,7 +33,7 @@ git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
 cd SH-Python-2024
 ```
 ### Step 2: Run the App
-run app.py
+run `app.py`
 Dibugger is enabled & the server will be Running on http://127.0.0.1:5000
 
 ### Step 3: Testing APIs for the API Endpoints:
