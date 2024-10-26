@@ -1,5 +1,4 @@
-# PART 1
-# CRUD Application with Flask and SQL Server
+# PART 1: CRUD Application with Flask and SQL Server
 
 This project is a basic CRUD application using Flask and Microsoft SQL Server to manage a database of banks. The application supports creating, reading, updating, and deleting (CRUD) bank records. 
 
