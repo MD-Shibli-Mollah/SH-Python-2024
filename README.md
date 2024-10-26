@@ -19,12 +19,12 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
 - Microsoft SQL Server
 - `pyodbc` and `SQLAlchemy` libraries
 - `Flask` for building the web application
-Install required libraries:
+- Install required libraries:
     pip install Flask pyodbc SQLAlchemy requests pytest flask_sqlalchemy
 
-Set up Microsoft SQL Server: Create a database
-    database: msshibli
-    If the table is not created in the database then our code will automatically create it as "banks(dbo.banks)"
+- Set up Microsoft SQL Server: Create a database
+    database: `msshibli`
+    If the `table` is not created in the `database` then our code will automatically create it as `banks(dbo.banks)`
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ cd SH-Python-2024
 run app.py
 Dibugger is enabled & the server will be Running on http://127.0.0.1:5000
 
-Testing APIs for the API Endpoints:
+## Testing APIs for the API Endpoints:
 
 | Method | Endpoint       | Description               |
 |--------|----------------|---------------------------|
