@@ -27,33 +27,17 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
 git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
 cd SH-Python-2024
 
-Step by Step Development:
-Step 1:
-Prerequisites: Install required libraries:
+### Step 2: Prerequisites: Install required libraries:
     pip install Flask pyodbc SQLAlchemy requests pytest flask_sqlalchemy
 
-Step 2:
-Set up Microsoft SQL Server: Create a database and a banks table with columns for id, name, and location. This case 
-database: msshibli & table: banks(dbo.banks)
+### Step 3: Set up Microsoft SQL Server: Create a database
+database: msshibli
+If the table is not created in the database then our code will automatically create it as "banks(dbo.banks)"
 
-Step 3: run app.py
-        Dibugger is enabled the server will be Running on http://127.0.0.1:5000
+### Step 4: run app.py
+        Dibugger is enabled & the server will be Running on http://127.0.0.1:5000
 
-Step 4: Testing APIs for the API Endpoints:
-
-| Method | Endpoint    | Description              |
-|--------|-------------|--------------------------|
-| POST   | `/banks`    | Create a new bank record |
-| GET    | `/banks`      | Get a list of all banks  |
-| GET    | `/banks/<id>` | Get a specific bank by ID|
-| PUT    | `/banks/<id>` | Update a specific bank   |
-| DELETE | `/banks/<id>` | Delete a specific bank   |
-
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+### Step 5: Testing APIs for the API Endpoints:
 
 | Method | Endpoint       | Description               |
 |--------|----------------|---------------------------|
