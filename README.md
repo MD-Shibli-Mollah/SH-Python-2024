@@ -16,7 +16,7 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
 
 ## Prerequisites
 - Python 3.7 or higher
-- Microsoft SQL Server
+- Microsoft SQL Server: `ODBC Driver 17 for SQL Server`
 - `pyodbc` and `SQLAlchemy` libraries
 - `Flask` for building the web application
 - Install required libraries:
