@@ -29,13 +29,14 @@ cd SH-Python-2024
 
 Step by Step Development:
 Step 1:
-Prerequisites: Install required libraries: pip install Flask pyodbc SQLAlchemy requests pytest
+Prerequisites: Install required libraries:
+    pip install Flask pyodbc SQLAlchemy requests pytest flask_sqlalchemy
 
 Step 2:
-Set up Microsoft SQL Server: Create a database and a banks table with columns for id, name, and location.
+Set up Microsoft SQL Server: Create a database and a banks table with columns for id, name, and location. This case 
+database: msshibli & table: banks(dbo.banks)
 
-Step 3:
-1. Flask App with CRUD Operations
-1.1 Setting Up Flask with SQLAlchemy : app.py
-        pip install flask_sqlalchemy
+Step 3: run app.py
+        Dibugger is enabled.
+        
     
