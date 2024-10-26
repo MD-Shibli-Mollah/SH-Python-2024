@@ -23,7 +23,8 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
     pip install `Flask` `pyodbc` `SQLAlchemy` `requests` `pytest` `flask_sqlalchemy`
 
 - Set up Microsoft SQL Server: Create a database: `msshibli`
-    If the `table` is not created in the `database` then our code will automatically create it as `banks(dbo.banks)`
+
+  If the `table` is not created in the `database` then our code will automatically create it as `banks(dbo.banks)`
 
 ## Getting Started
 
