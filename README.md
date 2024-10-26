@@ -50,4 +50,7 @@ Step 4: Testing APIs for the API Endpoints:
 | DELETE | `/banks/<id>` | Delete a specific bank   |
 
 
-    
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
