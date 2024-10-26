@@ -24,5 +24,5 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/flask-crud-sqlserver.git
-cd flask-crud-sqlserver
+git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
+cd SH-Python-2024
