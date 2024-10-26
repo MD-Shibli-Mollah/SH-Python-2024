@@ -20,7 +20,7 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
 - `pyodbc` and `SQLAlchemy` libraries
 - `Flask` for building the web application
 - Install required libraries:
-    pip install Flask pyodbc SQLAlchemy requests pytest flask_sqlalchemy
+    pip install `Flask` `pyodbc` `SQLAlchemy` `requests` `pytest` `flask_sqlalchemy`
 
 - Set up Microsoft SQL Server: Create a database
     database: `msshibli`
