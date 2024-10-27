@@ -58,7 +58,7 @@ pip install pandas numpy scikit-learn matplotlib
 
 ## Usage
 ### Run the script:
-    ```bash
+```bash
         python loanApprvML.py
 ```
 ## Results
