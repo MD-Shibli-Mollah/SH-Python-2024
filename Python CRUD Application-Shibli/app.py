@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Configure Database Connection
 # Sets up the database URI with Windows Authentication for SQL Server using the specified driver.
-# Server name: NITSL-NB-07 , Database name: msshibli
+# Database name: msshibli
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mssql+pyodbc://@localhost/msshibli?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes'
 app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {"connect_args": {"fast_executemany": True}}
 
