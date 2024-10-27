@@ -8,11 +8,9 @@ This project aims to predict loan approval decisions based on K-Nearest Neighbor
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Results](#results)
 - [Features](#features)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 - Python 3.x
