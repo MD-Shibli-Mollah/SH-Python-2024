@@ -38,11 +38,11 @@ The `ShoppingCart` class provides functionalities for managing a shopping cart:
 ### Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
    ```
 2. Navigate to the project directory
 ```bash
-    cd your-repo-name
+    cd SH-Python-2024/Python-OOP-Shibli
 ```
 ## Usage
 1. BankAccount Class Example
@@ -51,7 +51,7 @@ The `ShoppingCart` class provides functionalities for managing a shopping cart:
 from bank_account import BankAccount
 
 # Create a new bank account
-account = BankAccount("123456789", "John Doe", 500.0)
+account = BankAccount("1141000000876", "MD Shibli Mollah", 500.0)
 
 # Deposit money
 account.deposit(100)   # New balance should be 600
