@@ -45,7 +45,7 @@ The `ShoppingCart` class provides functionalities for managing a shopping cart:
    ```
 2. Navigate to the project directory
 ```bash
-    cd SH-Python-2024/Coding_Task-for-Validata_Devs-(Python)-Shibli/Part_1-Python-OOP-Shibli
+    cd SH-Python-2024-main/Coding_Task-for-Validata_Devs-(Python)-Shibli/Part_1-Python-OOP-Shibli
 ```
 ## Usage
 1. BankAccount Class Example

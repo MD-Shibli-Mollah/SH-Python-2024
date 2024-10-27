@@ -36,7 +36,7 @@ The application will automatically create a `banks` table in the database if it 
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
-cd SH-Python-2024/Coding_Task-for-Validata_Devs-(Python)-Shibli/Part_2-Python_CRUD_Application-Shibli
+cd SH-Python-2024-main/Coding_Task-for-Validata_Devs-(Python)-Shibli/Part_2-Python_CRUD_Application-Shibli
 ```
 
 ### Step 2: Configure Database Connection
