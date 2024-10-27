@@ -40,7 +40,7 @@ cd SH-Python-2024/Python CRUD Application-Shibli
 ```
 
 ### Step 2: Configure Database Connection
-Ensure your SQL Server is accessible and your connection string in app.py is correctly configured for your environment.
+Ensure your SQL Server is accessible and your connection string in `app.py` is correctly configured for your environment.
 ### Step 3: Run the Application
 ```bash
 python app.py
