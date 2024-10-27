@@ -59,7 +59,7 @@ pip install pandas numpy scikit-learn matplotlib
 ## Usage
 ### Run the script:
 ```bash
-        python loanApprvML.py
+python loanApprvML.py
 ```
 ## Results
 After running the models, the evaluation metrics and feature importances are saved in an output text file (`output.txt`). A bar plot of feature importances is also saved as an image (`feature_importances.png`).
