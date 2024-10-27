@@ -1,6 +1,7 @@
 # Coding Task for Validata Developers (Python)
-Part 1: Object-Oriented Programming
-Python OOP: Bank Account and Shopping Cart
+# Part 1: Object-Oriented Programming
+
+  Python OOP: Bank Account and Shopping Cart
 
 This project demonstrates the use of Object-Oriented Programming (OOP) concepts in Python by implementing two classes: `BankAccount` and `ShoppingCart`. The `BankAccount` class simulates a basic bank account with operations like deposit, withdraw, and balance check, while the `ShoppingCart` class allows adding, removing items, and calculating the total cost of items in a shopping cart.
 
