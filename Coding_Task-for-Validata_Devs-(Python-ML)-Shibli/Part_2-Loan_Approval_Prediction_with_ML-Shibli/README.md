@@ -4,6 +4,7 @@ This project aims to predict loan approval decisions based on K-Nearest Neighbor
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
+- [Prerequisites](#Prerequisites)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
