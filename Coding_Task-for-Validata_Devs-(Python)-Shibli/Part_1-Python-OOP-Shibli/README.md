@@ -42,11 +42,10 @@ The `ShoppingCart` class provides functionalities for managing a shopping cart:
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
-   cd SH-Python-2024/Coding_Task-for-Validata_Devs-(Python)-Shibli/Part_1-Python-OOP-Shibli
    ```
 2. Navigate to the project directory
 ```bash
-    cd SH-Python-2024/Python-OOP-Shibli
+    cd SH-Python-2024/Coding_Task-for-Validata_Devs-(Python)-Shibli/Part_1-Python-OOP-Shibli
 ```
 ## Usage
 1. BankAccount Class Example
