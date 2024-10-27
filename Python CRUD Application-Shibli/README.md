@@ -5,7 +5,7 @@ This project is a basic CRUD application using Flask and Microsoft SQL Server to
 
 ## Features
 - Add a new bank record (Create)
-- List all bank records (Read)
+- List of all bank records (Read)
 - Retrieve details of a specific bank (Read)
 - Update an existing bank record (Update)
 - Delete a bank record (Delete)
