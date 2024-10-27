@@ -1,5 +1,5 @@
-# Coding Task for Validata Developers (Python - ML)
-# PART 1: CRUD Application with Flask and SQL Server
+# Coding Task for Validata Developers (Python)
+# PART 2: CRUD Application with Flask and SQL Server
 
 This project is a basic CRUD application using Flask and Microsoft SQL Server to manage a database of banks. The application supports creating, reading, updating, and deleting (CRUD) bank records. 
 
@@ -36,7 +36,7 @@ The application will automatically create a `banks` table in the database if it 
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/MD-Shibli-Mollah/SH-Python-2024.git
-cd SH-Python-2024/Python CRUD Application-Shibli
+cd SH-Python-2024/Coding_Task-for-Validata_Devs-(Python)-Shibli/Part_2-Python_CRUD_Application-Shibli
 ```
 
 ### Step 2: Configure Database Connection
