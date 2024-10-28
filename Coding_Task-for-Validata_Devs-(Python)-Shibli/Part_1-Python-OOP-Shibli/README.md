@@ -91,11 +91,6 @@ print("Total Cost:", cart.calculate_total_cost())
 # Display cart contents
 cart.display_cart_contents()
 ```
-## Testing
-A separate test file (`test_app.py`) can be created to ensure that all CRUD operations for both classes are working correctly. Example tests could include adding/removing items in the `ShoppingCart` and depositing/withdrawing funds in `BankAccount`.
-To run the tests:
-```bash
-python test_app.py
-```
+
 ## Acknowledgments
 This project is intended as a demonstration of basic OOP concepts in Python. It showcases class creation, encapsulation, and method definitions, providing a simple yet practical example for beginners.
